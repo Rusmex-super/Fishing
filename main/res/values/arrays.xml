@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish_array">
+        <item>Карась</item>
+        <item>Сом</item>
+        <item>Щука</item>
+        <item>Окунь</item>
+        <item>Плотва</item>
+    </string-array>
+    <string-array name="vp_array">
+        <item>Блесна</item>
+        <item>Воблеры</item>
+        <item>Виброхвосты</item>
+    </string-array>
+    <string-array name="um_array">
+        <item>Астрахань</item>
+        <item>Карелия</item>
+        <item>Якутия</item>
+    </string-array>
+</resources>
